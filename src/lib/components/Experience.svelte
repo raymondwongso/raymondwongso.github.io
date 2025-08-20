@@ -18,10 +18,12 @@
 		"location": "Surabaya, Indonesia",
 		"description": "Lead the Account team, managing backend services and APIs for Sekuritas account creation and maintenance.",
 		"achievements": [
-			"Integrated with multiple local banks to enable seamless account opening processes",
-			"Led a team of 7 developers across multiple projects, ensuring timely and quality delivery",
-			"Optimized KYC processes, significantly reducing registration completion time",
-			"Mentored junior developers and enforced clean code practices through code reviews"
+			"Led 8 backend engineers in creating a secure, scalable and high-performance Sekuritas Account System",
+			"Managed, Scaled and Improved Sekuritas Account System that handles over 7000+ daily Sekuritas Account creations, with total of 2 millions users, from integrating with KSEI, CFA creation with multiple major Banks in Indonesia, to Integration with downstream services such as Transaction and Settlement",
+			"Building engineering culture where Testing and Integrity are integral to our processes, by introducing various engineering practice like TDD, Trunk Based Development and Shift-Left Testing",
+			"Developed a robust KYC Platform, reducing registration/onboard friction while maintaining regulatory standards",
+			"Collaborate with Web, Apps, Quality engineers in delivering multiple projects such as: Mandiri Bank Integration, Multi Porto and IFA SubAccount System, and AWS Migration",
+			"Spearheaded the backend architecture for Sekuritas account lifecycle, from creation to verification, improving success rate and user satisfaction"
 		],
 		"technologies": ["Go", "gRPC", "PostgreSQL", "PubSub", "Kafka", "MySQL", "Redis"]
 	},
